@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.IosCalculator" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="fontFamily">@font/fon</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+</resources>
